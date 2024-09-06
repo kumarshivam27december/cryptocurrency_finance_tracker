@@ -23,14 +23,15 @@ Welcome to the Crypto Finance Tracker, a React-based application designed to hel
     Prerequisites
 
 -   Node.js  : Make sure you have Node.js installed (v14 or later is recommended).
--   npm or yarn  : Node package manager for installing dependencies.
+-   npm : Node package manager for installing dependencies.
 
     Installation
 
 1.   Clone the repository:  
 
 
-   git clone https://github.com/your-username/crypto-finance-tracker.git
+   git clone   https://github.com/kumarshivam27december/cryptocurrency_finance_tracker.git
+
  
 
 2.   Navigate to the project directory:  
@@ -59,8 +60,7 @@ To start the development server, use the following command:
 
 
 npm start
-  or
-yarn start
+
 
 
 This will start the React application and open it in your default web browser at  'http://localhost:3000 '.
@@ -70,8 +70,7 @@ This will start the React application and open it in your default web browser at
 To create a production build of the application, run:
 
 npm run build
-  or
-yarn build
+
 
 
 
@@ -85,6 +84,6 @@ Feel free to submit issues or pull requests. Please make sure to follow the exis
 -   CoinMarketCap  : For additional data and insights (if used).
 -   React Community  : For their support and resources in building this application.
 
-For any questions or support, please open an issue on the [GitHub repository](https://github.com/kumarshivam27december/crypto-finance-tracker/issues).
+
 
 
